@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumoApp.PL", "NumoApp.PL\NumoApp.PL.csproj", "{9C45965A-547A-4133-8040-F74BDBF1BA85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumoApp.PL", "NumoApp.PL\NumoApp.PL.csproj", "{9C45965A-547A-4133-8040-F74BDBF1BA85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumoApp.BL.Models", "NumoApp.BL.Models\NumoApp.BL.Models.csproj", "{079F676B-554A-4357-BA96-A06C81A380BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{9C45965A-547A-4133-8040-F74BDBF1BA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C45965A-547A-4133-8040-F74BDBF1BA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C45965A-547A-4133-8040-F74BDBF1BA85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{079F676B-554A-4357-BA96-A06C81A380BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079F676B-554A-4357-BA96-A06C81A380BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079F676B-554A-4357-BA96-A06C81A380BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079F676B-554A-4357-BA96-A06C81A380BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A985F556-3AA3-4764-B82D-9B569661EE81}
 	EndGlobalSection
 EndGlobal
