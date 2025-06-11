@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumoApp.BL.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cda22a62f2ea31f0d0781f6f417362ec3fc37216")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca65457ae432d0d8c5944a1771e34a6e7af302d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumoApp.BL.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumoApp.BL.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
