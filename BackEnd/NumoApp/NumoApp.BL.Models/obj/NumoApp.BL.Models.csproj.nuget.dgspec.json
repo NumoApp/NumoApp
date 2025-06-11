@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\NumoApp\\NumoApp\\BackEnd\\NumoApp\\NumoApp.BL.Models\\NumoApp.BL.Models.csproj": {}
+    "D:\\Projects\\NumoApp\\BackEnd\\NumoApp\\NumoApp.BL.Models\\NumoApp.BL.Models.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\NumoApp\\NumoApp\\BackEnd\\NumoApp\\NumoApp.BL.Models\\NumoApp.BL.Models.csproj": {
+    "D:\\Projects\\NumoApp\\BackEnd\\NumoApp\\NumoApp.BL.Models\\NumoApp.BL.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\NumoApp\\NumoApp\\BackEnd\\NumoApp\\NumoApp.BL.Models\\NumoApp.BL.Models.csproj",
+        "projectUniqueName": "D:\\Projects\\NumoApp\\BackEnd\\NumoApp\\NumoApp.BL.Models\\NumoApp.BL.Models.csproj",
         "projectName": "NumoApp.BL.Models",
-        "projectPath": "D:\\Projects\\NumoApp\\NumoApp\\BackEnd\\NumoApp\\NumoApp.BL.Models\\NumoApp.BL.Models.csproj",
+        "projectPath": "D:\\Projects\\NumoApp\\BackEnd\\NumoApp\\NumoApp.BL.Models\\NumoApp.BL.Models.csproj",
         "packagesPath": "C:\\Users\\kathy\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\NumoApp\\NumoApp\\BackEnd\\NumoApp\\NumoApp.BL.Models\\obj\\",
+        "outputPath": "D:\\Projects\\NumoApp\\BackEnd\\NumoApp\\NumoApp.BL.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
