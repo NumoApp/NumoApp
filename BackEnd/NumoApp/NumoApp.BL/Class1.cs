@@ -1,4 +1,4 @@
-﻿namespace NumoApp.PL
+﻿namespace NumoApp.BL
 {
     public class Class1
     {
