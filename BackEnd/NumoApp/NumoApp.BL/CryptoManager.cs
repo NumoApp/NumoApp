@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace NumoApp.BL
 {
-    internal class CryptoManager
+    public class CryptoManager
     {
+                private const string Message = "Row does not exist.";
+
     }
 }

@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace NumoApp.BL
 {
-    internal class CatagoryManager
+    public class CatagoryManager
     {
+        private const string Message = "Row does not exist.";
+
     }
 }
