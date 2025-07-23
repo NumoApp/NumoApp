@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace NumoApp.BL
 {
-    internal class BillManager
+    public class BillManager
     {
+        private const string Message = "Row does not exist.";
+
+
     }
 }

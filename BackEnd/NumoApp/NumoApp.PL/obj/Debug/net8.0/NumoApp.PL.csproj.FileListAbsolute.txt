@@ -1,0 +1,13 @@
+D:\Projects\NumoApp\BackEnd\NumoApp\NumoApp.PL\bin\Debug\net8.0\NumoApp.PL.deps.json
+D:\Projects\NumoApp\BackEnd\NumoApp\NumoApp.PL\bin\Debug\net8.0\NumoApp.PL.dll
+D:\Projects\NumoApp\BackEnd\NumoApp\NumoApp.PL\bin\Debug\net8.0\NumoApp.PL.pdb
+D:\Projects\NumoApp\BackEnd\NumoApp\NumoApp.PL\obj\Debug\net8.0\NumoApp.PL.csproj.AssemblyReference.cache
+D:\Projects\NumoApp\BackEnd\NumoApp\NumoApp.PL\obj\Debug\net8.0\NumoApp.PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\NumoApp\BackEnd\NumoApp\NumoApp.PL\obj\Debug\net8.0\NumoApp.PL.AssemblyInfoInputs.cache
+D:\Projects\NumoApp\BackEnd\NumoApp\NumoApp.PL\obj\Debug\net8.0\NumoApp.PL.AssemblyInfo.cs
+D:\Projects\NumoApp\BackEnd\NumoApp\NumoApp.PL\obj\Debug\net8.0\NumoApp.PL.csproj.CoreCompileInputs.cache
+D:\Projects\NumoApp\BackEnd\NumoApp\NumoApp.PL\obj\Debug\net8.0\NumoApp.PL.sourcelink.json
+D:\Projects\NumoApp\BackEnd\NumoApp\NumoApp.PL\obj\Debug\net8.0\NumoApp.PL.dll
+D:\Projects\NumoApp\BackEnd\NumoApp\NumoApp.PL\obj\Debug\net8.0\refint\NumoApp.PL.dll
+D:\Projects\NumoApp\BackEnd\NumoApp\NumoApp.PL\obj\Debug\net8.0\NumoApp.PL.pdb
+D:\Projects\NumoApp\BackEnd\NumoApp\NumoApp.PL\obj\Debug\net8.0\ref\NumoApp.PL.dll

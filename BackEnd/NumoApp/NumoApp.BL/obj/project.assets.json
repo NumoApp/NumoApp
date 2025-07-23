@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "NumoApp.BL.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/NumoApp.BL.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NumoApp.BL.Models.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "NumoApp.BL.Models/1.0.0": {
+      "type": "project",
+      "path": "../NumoApp.BL.Models/NumoApp.BL.Models.csproj",
+      "msbuildProject": "../NumoApp.BL.Models/NumoApp.BL.Models.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "NumoApp.BL.Models >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\kathy\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Projects\\NumoApp\\BackEnd\\NumoApp\\NumoApp.BL.Models\\NumoApp.BL.Models.csproj": {
+              "projectPath": "D:\\Projects\\NumoApp\\BackEnd\\NumoApp\\NumoApp.BL.Models\\NumoApp.BL.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
