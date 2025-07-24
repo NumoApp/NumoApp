@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\NumoApp.BL.Models\NumoApp.BL.Models.csproj" />
+    <ProjectReference Include="..\NumoApp.PL\NumoApp.PL.csproj" />
   </ItemGroup>
 
 </Project>
