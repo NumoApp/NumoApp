@@ -19,5 +19,8 @@ namespace NumoApp.PL.Data
         public virtual DbSet<tblStock> tblStocks { get; set; }
         public virtual DbSet<tblCrypto> tblCryptos { get; set; }
         public virtual DbSet<tblCryptoTransaction> tblCryptoTransactions { get; set; }
+
+
+
     }
 }

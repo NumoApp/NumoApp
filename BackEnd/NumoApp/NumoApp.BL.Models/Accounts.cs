@@ -9,9 +9,10 @@ namespace NumoApp.BL.Models
     public class Accounts
     {
         public int Id { get; set; }
+        public Guid UserId { get; set; }
         public string AccountType { get; set; }
         public string Institution { get; set; }
-        public float Balance { get; set; }
+        public decimal Balance { get; set; }
 
     }
 }

@@ -29,6 +29,7 @@ namespace NumoApp.BL
                     row.Institution = Accounts.Institution;
                     row.Balance = Accounts.Balance;
                     row.UserId = Accounts.UserId;
+                    return base.Insert(row, rollback);
 
                 }
                 catch (Exception ex)
